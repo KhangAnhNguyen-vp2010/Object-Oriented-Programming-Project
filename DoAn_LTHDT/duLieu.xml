@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<CongTy>
+  <Khach_List>
+    
+      <TaiKhoan_Khach>
+        <Username>K001</Username>
+        <Password>khach1</Password>
+        <SDT>3213123</SDT>
+        <TrangThai>0</TrangThai>
+        <LoaiKhach>vip</LoaiKhach>
+      </TaiKhoan_Khach>
+  
+      <TaiKhoan_Khach>
+        <Username>K002</Username>
+        <Password>khach2</Password>
+        <SDT>8908989</SDT>
+        <TrangThai>0</TrangThai>
+        <LoaiKhach>thuong</LoaiKhach>
+      </TaiKhoan_Khach>
+    
+  </Khach_List>
+
+  <TaiXe_List>
+    
+      <TaiKhoan_TaiXe>
+        <Username>A001</Username>
+        <Password>taixe1</Password>
+        <SDT>3213123</SDT>
+        <TrangThai>0</TrangThai>
+        <Loai>1</Loai>
+        <MaSo>001</MaSo>
+        <Ten>Khang</Ten>
+        <KhachHang>B</KhachHang>
+        <DiaChiDon>qwe</DiaChiDon>
+        <DiaChiDen>123</DiaChiDen>
+        <KhoangCach>10</KhoangCach>
+        <GioDon>10</GioDon>
+        <NgayDi>8 thang 3</NgayDi>
+      </TaiKhoan_TaiXe>
+    
+      <TaiKhoan_TaiXe>
+        <Username>A002</Username>
+        <Password>taixe2</Password>
+        <SDT>3213123</SDT>
+        <TrangThai>0</TrangThai>
+        <Loai>2</Loai>
+        <MaSo>002</MaSo>
+        <Ten>An</Ten>
+        <KhachHang>J</KhachHang>
+        <DiaChiDon>iop</DiaChiDon>
+        <DiaChiDen>ipi</DiaChiDen>
+        <KhoangCach>9</KhoangCach>
+        <GioDon>6</GioDon>
+        <NgayDi>24 thang 6</NgayDi>
+        <ChoNgoi>6</ChoNgoi>
+      </TaiKhoan_TaiXe>
+    
+      <TaiKhoan_TaiXe>
+        <Username>A003</Username>
+        <Password>taixe3</Password>
+        <SDT>3213123</SDT>
+        <TrangThai>0</TrangThai>
+        <Loai>3</Loai>
+        <MaSo>003</MaSo>
+        <Ten>Hung</Ten>
+        <KhachHang>P</KhachHang>
+        <DiaChiDon>jkjk</DiaChiDon>
+        <DiaChiDen>jjkjkl</DiaChiDen>
+        <KhoangCach>3</KhoangCach>
+        <GioDon>24</GioDon>
+        <NgayDi>17 thang 9</NgayDi>
+        <TrongTai>2</TrongTai>
+      </TaiKhoan_TaiXe>
+    
+  </TaiXe_List>
+</CongTy>

@@ -1,0 +1,9 @@
+C:\Users\lenovo\OneDrive\Desktop\DoAn_LTHDT\DoAn_LTHDT\bin\Debug\DoAn_LTHDT.exe.config
+C:\Users\lenovo\OneDrive\Desktop\DoAn_LTHDT\DoAn_LTHDT\obj\Debug\DoAn_LTHDT.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\OneDrive\Desktop\DoAn_LTHDT\DoAn_LTHDT\bin\Debug\DoAn_LTHDT.exe
+C:\Users\lenovo\OneDrive\Desktop\DoAn_LTHDT\DoAn_LTHDT\bin\Debug\DoAn_LTHDT.pdb
+C:\Users\lenovo\OneDrive\Desktop\DoAn_LTHDT\DoAn_LTHDT\obj\Debug\DoAn_LTHDT.exe
+C:\Users\lenovo\OneDrive\Desktop\DoAn_LTHDT\DoAn_LTHDT\obj\Debug\DoAn_LTHDT.pdb
+C:\Users\lenovo\OneDrive\Desktop\Đại Học Ngành Công Nghệ Thông Tin\Thực hành lập trình hướng đối tượng\DoAn_LTHDT\DoAn_LTHDT\bin\Debug\DoAn_LTHDT.exe.config
+C:\Users\lenovo\OneDrive\Desktop\Đại Học Ngành Công Nghệ Thông Tin\Thực hành lập trình hướng đối tượng\DoAn_LTHDT\DoAn_LTHDT\obj\Debug\DoAn_LTHDT.exe
+C:\Users\lenovo\OneDrive\Desktop\Đại Học Ngành Công Nghệ Thông Tin\Thực hành lập trình hướng đối tượng\DoAn_LTHDT\DoAn_LTHDT\obj\Debug\DoAn_LTHDT.pdb
